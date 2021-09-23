@@ -1,5 +1,5 @@
 # home_work-1
-The purpose of this assignment was to refactor the for easy 
+The purpose of this assignment was to refactor the web page for easy 
 maintainance by other developers who may have a need to enhance
 the website. 
 
@@ -30,3 +30,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+# homework-1
