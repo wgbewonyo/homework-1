@@ -1,7 +1,7 @@
 # home_work-1
 The purpose of this assignment was to refactor the web page for easy 
 maintainance by other developers who may have a need to enhance
-the website. 
+the website. Also reduce redundancy in CSS code
 
 ## Key Changes  
 
@@ -10,7 +10,8 @@ the website.
 3 REPLACE the outer <div> tags in the main sections of the website to make the sections standout
 4 REPLACE the outer <div> tags in the footer section of the website to signify the end of the web page
 5 ADDED "alt" attribute to all refrences to image sources
-6 MADE following changes to the stylesheet for the ederly and visualy      impaire 
+6 CONSOLIDTED CSS codes to minimize redundancy
+7 MADE following changes to the stylesheet for the ederly and visualy      impaire 
 Added font weight "font-weight: bolder"
 Changed font size to "font-size: 18px"
 
